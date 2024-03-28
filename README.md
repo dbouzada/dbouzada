@@ -10,10 +10,11 @@ Mi experiencia en el Mundo de los datos:
 * Data Viz en UNO Entre Ríos
 * Power BI Consultant en EstrateGO Consulting Group
 * Tutor del Curso de Analisis de Datos en Coderhouse.
+* Desarrollador Power BI Freelance, colaborando sobre todo con análisis comerciales y contables con diferentes empresas 
 
 Todos los días intento aprender algo nuevo! 
 
-Aquí ire mostrando algunos de mis trabajos 📫
+Aquí ire mostrando algunos de mis trabajos 📫 
 
 Me gusta mucho hacer actividad física 💪 y estar con mi perro Enzo 🐶
 
