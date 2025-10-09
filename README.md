@@ -1,6 +1,6 @@
 ## 👋 ¡Hola a todos!  
 #### Soy **Diego Bouzada**, aunque la mayoría me dice **Bou 😄**  
-Vivo en Paraná, Argentina 🇦🇷  
+Vivo en Paraná, Argentina 
 
 Soy **Comunicador Social** de formación y, desde 2021, **apasionado por el mundo de los Datos**.  
 Me encanta transformar información en conocimiento útil y crear soluciones que conecten lo técnico con lo humano.  
