@@ -48,7 +48,9 @@ Y fuera del mundo tech… me encanta **hacer actividad física 💪** y pasar ti
 ---
 
 📫 **LinkedIn:** [linkedin.com/in/bouzadadiego](https://linkedin.com/in/bouzadadiego)  
-📊 *Próximamente iré subiendo algunos de mis proyectos y tableros 🚀*  
+📊 Aquí comparto algunos desarrollos que puedo mostrar públicamente.  
+Muchos de los proyectos en los que trabajé no pueden publicarse por políticas de mis empleadores,  
+pero si querés conocer más sobre mi experiencia o mi forma de trabajar, **coordinemos una entrevista** 🚀   
 
 
 
