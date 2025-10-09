@@ -1,9 +1,7 @@
-## 👋 ¡Hola a todos!  
-#### Soy **Diego Bouzada**, aunque la mayoría me dice **Bou 😄**  
-Vivo en Paraná, Argentina 
+¡Hola! Soy Diego Bouzada (Bou 😄), Data & Analytics Engineer especializado en modelado, automatización y visualización de datos.
+Me apasiona convertir grandes volúmenes de información en insights que impulsen decisiones y estrategias de negocio.
 
-Soy **Comunicador Social** de formación y, desde 2021, **apasionado por el mundo de los Datos**.  
-Me encanta transformar información en conocimiento útil y crear soluciones que conecten lo técnico con lo humano.  
+Creo en unir lo técnico y lo humano: datos bien contados pueden transformar una compañía.
 
 ---
 
