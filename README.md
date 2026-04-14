@@ -13,7 +13,10 @@ Hoy trabajo como **Data & Analytics Engineer en MercadoLibre**, analizando proce
 
 ### 🧠 Experiencia en el mundo de los datos  
 
-- 🟣 **Data & Analytics Engineer – MercadoLibre (2024 - Presente)**  
+- 🟡 **Data & Analytics Engineer – Mindata (2026 - Presente)**  
+  Diseño de modelos de datos y dashboards. Automatizaciones y armado de ETLs complejos en N8N, Power BI. 
+
+- 🟣 **Data & Analytics Engineer – MercadoLibre (2024 - 2026)**  
   Diseño de modelos de datos y dashboards en **BigQuery** y **Tableau** para analizar onboarding y performance de sellers en **MercadoPago**.  
 
 - 🔵 **Analista BI & Data Analytics – Inteligencia Analítica (2024)**  
