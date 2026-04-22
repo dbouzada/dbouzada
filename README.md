@@ -44,7 +44,7 @@ Hoy trabajo como **Data & Analytics Engineer en MercadoLibre**, analizando proce
 ### 🌱 Siempre aprendiendo  
 Cada día intento incorporar algo nuevo: una técnica, una visualización o una forma distinta de contar una historia con datos.  
 
-Y fuera del mundo tech… me encanta **hacer actividad física 💪** y pasar tiempo con mi **perra Felipa 🐶**.  
+Y fuera del mundo tech… me encanta **hacer actividad física 💪** y pasar tiempo con mis **perros Felipa y Bernabeu 🐶**.  
 
 ---
 
