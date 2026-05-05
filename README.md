@@ -7,7 +7,7 @@ Creo en unir lo técnico y lo humano: datos bien contados pueden transformar una
 
 ### 💡 Sobre mí  
 Comencé mi camino en Data Analytics y Data Science en **Coderhouse**, donde aprendí **SQL Server**, **Power BI** y **Python** (`Pandas`, `NumPy`, `Scikit-learn`, `Matplotlib`).  
-Hoy trabajo como **Data & Analytics Engineer en MercadoLibre**, analizando procesos y construyendo modelos de datos y dashboards para toda América.  
+Hoy trabajo como **Data & Analytics Engineer en Mindata**, analizando procesos y construyendo modelos de datos y dashboards para la empresa.  
 
 ---
 
