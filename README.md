@@ -1,58 +1,65 @@
-¡Hola! Soy Diego Bouzada (Bou 😄), Data & Analytics Engineer especializado en modelado, automatización y visualización de datos.
-Me apasiona convertir grandes volúmenes de información en insights que impulsen decisiones y estrategias de negocio.
+## Analytics Engineer | Microsoft Fabric DP-600 Certified | BigQuery · SQL · Power BI · Tableau
 
-Creo en unir lo técnico y lo humano: datos bien contados pueden transformar una compañía.
+Trabajo en la intersección entre datos y decisiones de negocio.
+Con más de 4 años de experiencia en entornos de gran escala, construí soluciones
+de datos end-to-end en Mercado Libre, Sancor Seguros, Techint y Grupo Don Mario.
 
----
-
-### 💡 Sobre mí  
-Comencé mi camino en Data Analytics y Data Science en **Coderhouse**, donde aprendí **SQL Server**, **Power BI** y **Python** (`Pandas`, `NumPy`, `Scikit-learn`, `Matplotlib`).  
-Hoy trabajo como **Data & Analytics Engineer en Mindata**, analizando procesos y construyendo modelos de datos y dashboards para la empresa.  
+Vengo de una formación en Comunicación Social, lo que me da una ventaja real:
+puedo traducir análisis técnicos en lenguaje que el negocio entiende y actúa.
 
 ---
 
-### 🧠 Experiencia en el mundo de los datos  
+### 🛠️ Stack principal
 
-- 🟡 **Data & Analytics Engineer – Mindata (2026 - Presente)**  
-  Diseño de modelos de datos y dashboards. Automatizaciones y armado de ETLs complejos en N8N, Power BI. 
-
-- 🟣 **Data & Analytics Engineer – MercadoLibre (2024 - 2026)**  
-  Diseño de modelos de datos y dashboards en **BigQuery** y **Tableau** para analizar onboarding y performance de sellers en **MercadoPago**.  
-
-- 🔵 **Analista BI & Data Analytics – Inteligencia Analítica (2024)**  
-  Desarrollo de tableros en **Power BI**, procesos **ETL** en **SQL** y automatización con **SSIS** para la gestión operativa de **Prevención Salud**.  
-
-- 🟢 **Analista de Datos – Seidor Analytics (2023)**  
-  Participación en proyectos de analítica para clientes como **Techint**, **Don Mario** y **Café La Virginia**, usando **SAP HANA**, **Power BI** y **Azure Data Factory**.  
-
-- 🟡 **Power BI Consultant – EstrateGo Consulting (2023 - 2024)**  
-  Creación de dashboards y optimización de modelos en **Power BI** y **SQL** para empresas comerciales y de retail.  
-
-- 🧩 **Tutor Power BI & Data Analytics – Coderhouse (2022 - Presente)**  
-  Acompaño a estudiantes en el uso de **Power BI** y **SQL**, ayudándolos a desarrollar pensamiento analítico y buenas prácticas de modelado.  
-
-- 🔴 **Sales Team Lead & Analytics – Grupo América Litoral (2019 - 2023)**  
-  Lideré un equipo de 12 personas y desarrollé análisis de performance comercial que impulsaron decisiones estratégicas y mejoras en rentabilidad.  
+`BigQuery` `SQL avanzado` `Python` `Power BI` `Tableau` `Looker` `Microsoft Fabric`
+`Azure Data Factory` `SSIS` `dbt` `Amplitude` `Monte Carlo` `Jira`
 
 ---
 
-### ⚙️ Herramientas y Tecnologías  
-`BigQuery` • `Power BI` • `Tableau` • `Python` • `SQL Server` • `Azure Data Factory` • `SSIS` • `Microsoft Fabric` • `Montecarlo` • `Amplitude` • `Jira`  
+### 🏢 Experiencia relevante
+
+**Data & Analytics Engineer – Mindata** *(2026 - presente)*
+Desarrollo de pipelines de datos, automatizaciones y dashboards ejecutivos en Power BI.
+Integración técnica entre herramientas (Jira, APIs, Google Sheets, Power BI).
+
+**Data & Analytics Engineer – Mercado Libre** *(2024 - 2026)*
+Equipo de BI de Instore Payments. Modelos de datos y dashboards en BigQuery y Tableau
+para monitoreo de onboarding y performance de sellers en MercadoPago.
+
+**Data AI Engineer – Quales** *(2025 - 2026)*
+DataWarehouse en GCP (BigQuery), pipelines ELT con Python y SQL,
+modelos con LookML y dashboards en Tableau y Looker.
+
+**Analista BI & Data Analytics – Inteligencia Analítica / Prevención Salud** *(2024)*
+Soluciones end-to-end: ETL con SSIS + SQL Server, dashboards en Power BI,
+APIs en Python para integración con sistemas externos.
+
+**Data Analytics Consultant – Seidor Analytics** *(2023)*
+Proyectos para Techint, Don Mario y Café La Virginia.
+Migración de ETLs de SSIS a SAP BW4/Hana, dashboards en Power BI y SAP Analytics Cloud.
 
 ---
 
-### 🌱 Siempre aprendiendo  
-Cada día intento incorporar algo nuevo: una técnica, una visualización o una forma distinta de contar una historia con datos.  
+### 📌 Proyectos destacados
 
-Y fuera del mundo tech… me encanta **hacer actividad física 💪** y pasar tiempo con mis **perros Felipa y Bernabeu 🐶**.  
+> 🔗 Los proyectos de producción no pueden publicarse por políticas de confidencialidad.
+> Los repositorios públicos muestran challenges, análisis propios y ejercicios de arquitectura.
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [ChallengeMercadoLibre](https://github.com/dbouzada/ChallengeMercadoLibre) | Challenge técnico presentado en el proceso de selección de Mercado Libre | Python · Power BI |
+| [ETLs-Databricks](https://github.com/dbouzada/ETLs-Databricks) | Pipelines y transformaciones en Databricks | Python |
+| [Dashboards](https://github.com/dbouzada/Dashboards) | Colección de dashboards desarrollados en Power BI | Power BI |
 
 ---
 
-📫 **LinkedIn:** [linkedin.com/in/bouzadadiego](https://linkedin.com/in/bouzadadiego)  
-📊 Aquí comparto algunos desarrollos que puedo mostrar públicamente.  
-Muchos de los proyectos en los que trabajé no pueden publicarse por políticas de mis empleadores,  
-pero si querés conocer más sobre mi experiencia o mi forma de trabajar, **coordinemos una entrevista** 🚀   
+### 🎓 Certificación
 
+🏅 **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)** — 2024
 
+---
 
+### 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bouzadadiego-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/bouzadadiego)
 
