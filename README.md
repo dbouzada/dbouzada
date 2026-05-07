@@ -47,6 +47,7 @@ Migración de ETLs de SSIS a SAP BW4/Hana, dashboards en Power BI y SAP Analytic
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
+| [n8n-bi-automation-gemini-supabase](https://github.com/dbouzada/n8n-bi-automation-gemini-supabase) | Pipeline automatizado que extrae datos de Supabase, genera análisis con Gemini y envía reportes ejecutivos por email vía cron job | n8n · Supabase · Gemini · QuickChart |
 | [ChallengeMercadoLibre](https://github.com/dbouzada/ChallengeMercadoLibre) | Challenge técnico presentado en el proceso de selección de Mercado Libre | Python · Power BI |
 | [ETLs-Databricks](https://github.com/dbouzada/ETLs-Databricks) | Pipelines y transformaciones en Databricks | Python |
 | [Dashboards](https://github.com/dbouzada/Dashboards) | Colección de dashboards desarrollados en Power BI | Power BI |
