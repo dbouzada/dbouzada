@@ -47,9 +47,12 @@ Migración de ETLs de SSIS a SAP BW4/Hana, dashboards en Power BI y SAP Analytic
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
+| [mundial-2026-data](https://github.com/dbouzada/mundial-2026-data) | Pipeline de datos en tiempo real del Mundial 2026: ingesta automatizada cada 10 min y dashboard público interactivo | Python · GitHub Actions · Streamlit · Plotly |
+| [mundial-2026](https://github.com/dbouzada/mundial-2026) | Simulador interactivo del Mundial 2026: fase de grupos, bracket eliminatorio y predictor de partidos | HTML · CSS · JS |
+| [diego-portfolio](https://github.com/dbouzada/diego-portfolio) | Mi sitio personal / CV interactivo, bilingüe ES-EN | Next.js · TypeScript · Tailwind |
 | [n8n-bi-automation-gemini-supabase](https://github.com/dbouzada/n8n-bi-automation-gemini-supabase) | Pipeline automatizado que extrae datos de Supabase, genera análisis con Gemini y envía reportes ejecutivos por email vía cron job | n8n · Supabase · Gemini · QuickChart |
 | [ChallengeMercadoLibre](https://github.com/dbouzada/ChallengeMercadoLibre) | Challenge técnico presentado en el proceso de selección de Mercado Libre | Python · Power BI |
-| [ETLs-Databricks](https://github.com/dbouzada/ETLs-Databricks) | Pipelines y transformaciones en Databricks | Python |
+| [ETLs-Databricks](https://github.com/dbouzada/ETLs-Databricks) | Pipelines y transformaciones en Databricks con Medallion Architecture | Python · PySpark · Delta Lake |
 | [Dashboards](https://github.com/dbouzada/Dashboards) | Colección de dashboards desarrollados en Power BI | Power BI |
 
 ---
@@ -63,4 +66,3 @@ Migración de ETLs de SSIS a SAP BW4/Hana, dashboards en Power BI y SAP Analytic
 ### 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bouzadadiego-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/bouzadadiego)
-
