@@ -56,7 +56,7 @@ Migración de ETLs de SSIS a SAP BW4/Hana, dashboards en Power BI y SAP Analytic
 
 ### 🎓 Certificación
 
-🏅 **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)** — 2024
+🏅 **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)** — 2024 (Renovación vigente)
 
 ---
 
